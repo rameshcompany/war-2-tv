@@ -1,0 +1,9 @@
+flipkart6\controller\MemberController.class
+flipkart6\rest\JaxRsActivator.class
+flipkart6\data\MemberListProducer.class
+flipkart6\service\MemberRegistration.class
+flipkart6\model\Member.class
+flipkart6\data\MemberRepository.class
+flipkart6\rest\MemberResourceRESTService.class
+flipkart6\model\Member_.class
+flipkart6\util\Resources.class
